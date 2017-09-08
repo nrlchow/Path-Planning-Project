@@ -12,11 +12,6 @@ Video Reference:
 [![Alt text](https://img.youtube.com/vi/gMI14hXdxFo/0.jpg)](https://www.youtube.com/watch?v=gMI14hXdxFo)
 
 
-### Video2:
-
-[![Alt text](https://img.youtube.com/vi/hp4Qi6O9SlY&t/0.jpg)](https://www.youtube.com/watch?v=hp4Qi6O9SlY&t)
-
-
 #### The map of the highway is in data/highway_map.txt
 Each waypoint in the list contains  [x,y,s,dx,dy] values. x and y are the waypoint's map coordinate position, the s value is the distance along the road to get to that waypoint in meters, the dx and dy values define the unit normal vector pointing outward of the highway loop.
 
