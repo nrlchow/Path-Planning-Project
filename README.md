@@ -14,7 +14,7 @@ Video Reference:
 
 ### Video2:
 
-[![Alt text](https://img.youtube.com/vi/hp4Qi6O9SlY&t=31s/0.jpg)](https://www.youtube.com/watch?v=hp4Qi6O9SlY&t=31s)
+[![Alt text](https://img.youtube.com/vi/hp4Qi6O9SlY&t/0.jpg)](https://www.youtube.com/watch?v=hp4Qi6O9SlY&t)
 
 
 #### The map of the highway is in data/highway_map.txt
